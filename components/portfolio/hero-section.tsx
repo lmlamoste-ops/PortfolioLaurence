@@ -15,7 +15,7 @@ export function HeroSection() {
           className="mx-auto mb-8 w-40 h-40 rounded-full overflow-hidden border-4 border-primary shadow-[0_0_0_10px_rgba(13,217,255,0.08)]"
         >
           <Image
-            src="/profile.svg"
+            src="/profile.jpg"
             alt="Laurence Lamoste"
             width={160}
             height={160}
