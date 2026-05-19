@@ -20,7 +20,7 @@ const projects = [
     tags: ["React", "Tailwind", "Firebase"],
     previewImage: "/project/Chillingan/ChillingaOrder.png",
     galleryImages: [
-      "/project/Chillingan/ChillinganOrder.png",
+      "/project/Chillingan/ChillinganReservation.png",
       "/project/Chillingan/ChillinganOrdering.png",
       "/project/Chillingan/ChillingaOrder.png",
     ],
@@ -43,7 +43,7 @@ const projects = [
     description: "A personal portfolio site with polished project presentation and contact flow.",
     tags: ["Next.js", "TypeScript", "Tailwind"],
     previewImage: "project/Portfolio/Screenshot 2026-05-19 165133.png",
-    galleryImages: ["/profile.svg"],
+    galleryImages: ["project/Portfolio/Screenshot 2026-05-19 165133.png"],
   },
 ]
 
